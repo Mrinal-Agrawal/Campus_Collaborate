@@ -21,7 +21,16 @@ Campus Collaborate is a dedicated website designed for closed-campus community, 
 5. Dual Review System: The website features two review systems—one for ideation and another for project description — allowing for comprehensive feedback and refinement of project concepts and details.
 
 ## Improvements
-1. Top-Rated Courses Display: Implement a section showcasing top courses based on the highest-rated projects, filtered by 5-star reviews across various subjects, enhancing user access to quality educational content.
+1. Top-Rated Courses Display: Implement a section showcasing top courses based on the highest-rated projects, filtered by 5-star reviews across various subjects, enhancing user access to quality content.
 2. Personalized Course Recommendations: Provide personalized course recommendations based on user interests and the projects they're involved in, aiding in skill development.
 3. Help Section Integration: Incorporate a dedicated help section where users can seek assistance from peers regarding any project-related confusion or inquiries.
+
+## Collaborators
+1. Shreeya Gupta
+2. Prachi Bindal
+3. Mrinal Agrawal
+4. Meghana Nelapati
+5. Kanika Singh
+6. Priti Kumari
+
 
