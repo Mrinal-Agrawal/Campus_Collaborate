@@ -2,7 +2,7 @@
 
 Kriti'24
 
-Campus Collaborate is a dedicated website designed for closed-campus community, seamlessly integrating with Outlook to fetch user details. It's homepage serves as a dynamic showcase, highlighting the latest projects contributed. It also offers comprehensive profile pages, enabling members to present a holistic view of their expertise and contributions within the campus community.
+Campus Collaborate is a dedicated website designed for closed-campus community, seamlessly integrating with Outlook to fetch user details. Its homepage serves as a dynamic showcase, highlighting the latest projects contributed. It also offers comprehensive profile pages, enabling members to present a holistic view of their expertise and contributions within the campus community.
 
 ## Tech-Stack
 
@@ -15,7 +15,7 @@ Campus Collaborate is a dedicated website designed for closed-campus community, 
 
 ## Usage
 1. Integration with Outlook: The platform seamlessly integrates with Outlook, ensuring secure access to Campus Junta.
-2. Homepage: The homepage highlights the latest projects contributed by users fosters collaboration.
+2. Homepage: The homepage highlights the latest projects contributed by users and fosters collaboration.
 3. Comprehensive Profile Pages: Users can securely highlight their expertise and contributions within the campus community.
 4. Feedback System: The platform includes a feedback system where users can provide feedback on the latest projects.
 5. Dual Review System: The website features two review systems—one for ideation and another for project description — allowing for comprehensive feedback and refinement of project concepts and details.
