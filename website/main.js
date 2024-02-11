@@ -28,7 +28,8 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, tlsAl
 
 main.use('/public/', express.static('./public'));
 main.use(express.static("./public"));
-main.use(express.static("./views/css file"));
+main.use(express.static("./views"));
+main.use('/views/',express.static("./views"));
 main.use(express.urlencoded({extended: true}));
 main.use(morgan('dev'));
 main.set('view engine','ejs');
